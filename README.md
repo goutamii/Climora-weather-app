@@ -15,7 +15,6 @@ Climora is a modern weather application built using HTML, CSS, and JavaScript th
 * Weather condition display
 * Dynamic weather icons
 * Responsive user interface
-* Error handling for invalid city names
 * Cloud deployment using Render
 
 ## 🛠 Tech Stack
